@@ -5,7 +5,7 @@ import Persona.Persona;
 /**
  * @author Melissa Rodriguez y David Mulet
  */
-public class Adulto extends Persona {
+public class Padre extends Persona {
     //Atributos
     private String nss = new String();
     private String dirección = new String();
@@ -13,7 +13,7 @@ public class Adulto extends Persona {
     /**
      * Constructor de objetos adulto sin valores
      */
-    public Adulto(){}
+    public Padre(){}
 
     /**
      *Constructor de objetos adulto
@@ -23,7 +23,7 @@ public class Adulto extends Persona {
      * @param nss
      * @param dirección
      */
-    public Adulto(String nombre, String dni, int edad, String nss, String dirección) {
+    public Padre(String nombre, String dni, int edad, String nss, String dirección) {
         super(nombre, dni, edad);
         this.nss = nss;
         this.dirección = dirección;
