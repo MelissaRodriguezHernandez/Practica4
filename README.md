@@ -18,4 +18,4 @@ ATENCIÓN: El trabajo se ha hecho desde el IDE IntelliJ Community 2021.3.2 y por
 
 ## Diagrama de las ramas
 
-![diagrama de ramas]()
+![diagrama de ramas](https://github.com/MelissaRodriguezHernandez/Practica4/blob/master/Diagrama.png)
