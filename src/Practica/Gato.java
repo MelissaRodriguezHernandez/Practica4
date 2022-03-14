@@ -51,7 +51,7 @@ public class Gato extends Mascota{
     /**
      * Metodo sonido
      */
-
+    @Override
     public void sonido() {
 
     }

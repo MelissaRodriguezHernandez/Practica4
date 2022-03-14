@@ -3,7 +3,7 @@ package Practica;
 /**
  * @author Melissa Rodriguez y David Mulet
  */
-public abstract class Mascota {
+public abstract class Mascota implements ISonido {
     //Atributos
     private String nombre = new String();
     private int edad;
