@@ -1,4 +1,6 @@
 package Practica;
+import Interfaces.ISonido;
+
 import java.util.Date;
 
 /**

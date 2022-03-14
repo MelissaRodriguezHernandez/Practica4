@@ -1,5 +1,7 @@
 package Practica;
 
+import Interfaces.ISonido;
+
 /**
  * @author Melissa Rodriguez y David Mulet
  */
