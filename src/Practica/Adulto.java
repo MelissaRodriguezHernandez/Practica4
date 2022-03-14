@@ -1,9 +1,11 @@
 package Practica;
 
+import Persona.Persona;
+
 /**
  * @author Melissa Rodriguez y David Mulet
  */
-public class Adulto extends Persona{
+public class Adulto extends Persona {
     //Atributos
     private String nss = new String();
     private String dirección = new String();

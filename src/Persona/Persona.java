@@ -1,4 +1,4 @@
-package Practica;
+package Persona;
 
 /**
  * @author Melissa Rodriguez y David Mulet

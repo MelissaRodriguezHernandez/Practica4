@@ -1,9 +1,11 @@
 package Practica;
 
+import Persona.Persona;
+
 /**
  * @author Melissa Rodriguez y David Mulet
  */
-public class Niño extends Persona{
+public class Niño extends Persona {
     //Atributos
     private String colegio = new String();
     private Juguete juguete ;
