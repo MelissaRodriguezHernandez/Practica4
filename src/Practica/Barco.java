@@ -4,7 +4,7 @@ import java.util.Date;
 /**
  * @author Melissa Rodriguez y David Mulet
  */
-public class Barco implements ISonido {
+public class Barco  {
     //Atributos
     private String nombre = new String ();
     private Date fechaConstrucción = new Date();
@@ -95,6 +95,6 @@ public class Barco implements ISonido {
     /**
      * Metodo sonido
      */
-    @Override
+
     public void sonido(){};
 }

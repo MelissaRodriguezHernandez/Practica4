@@ -50,6 +50,6 @@ public class Perro extends Mascota{
     /**
      * Metodo sonido
      */
-    @Override
+
     public void sonido(){}
 }
